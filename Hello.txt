@@ -1,1 +1,2 @@
 System.out.ptintln("Hello!");
+System.out.ptintln("Point2!");
