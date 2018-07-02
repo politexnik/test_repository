@@ -1,3 +1,4 @@
 System.out.println("Hello!");
 System.out.println("Point2!");
 System.out.println("Устраняем баг!");
+System.out.println("И погнали по новой разрабатывать!");
