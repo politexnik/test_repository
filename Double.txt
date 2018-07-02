@@ -1,2 +1,3 @@
 System.out.ptintln("Hello!");
-Feature go!
+System.out.ptintln("Feature go!");
+System.out.ptintln("Ok, let's merge!");
